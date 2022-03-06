@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaphaelBorba
+- 👋 Hi, I’m Raphael Borba da Silva Xavier
 - 👀 I’m interested in programing, sports, entrepreneurship books and socialize with new people.
 - 🌱 I’m currently learning web developing, javascript, python and stuff.
 - 💞️ I’m looking to collaborate on any company that can improve my skills and my knowledge on coding.
