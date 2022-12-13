@@ -22,7 +22,7 @@
   <table>
   <tbody>
     <tr>
-      <td align="left" width="60%">
+      <td align="left" width="50%">
          <div>
 
    ## **Front-end:**
@@ -36,7 +36,7 @@
 
 </div>
       </td>
-      <td align="center" width="40%">
+      <td align="left" width="50%">
          
 <div>
 
