@@ -11,10 +11,43 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+  <table>
+  <tbody>
+    <tr>
+      <td align="left" width="60%">
+         <div>
+
+   ## **Front-end:**
+
+   -   **React JS**
+   -   **React Native**
+   -   **JavaScript**
+   -   **HTML5**
+   -   **CSS3**
+   -   **TypeScript**
+
+</div>
+      </td>
+      <td align="center" width="40%">
+         
+<div>
+
+   ## **Back-end:**
+
+   -   **Node.js**
+   -   **MongoDB**
+   -   **PostgreSQL**
+   -   **MySQL**
+   -   **TypeScript**
+   -   **Python**
+</div>
+   </tr>
+  </tbody>
+</table>
+  
   ##
   
   <div> 
-  <a href="https://www.instagram.com/raphael.bsx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-borba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
