@@ -21,6 +21,7 @@
    -   **HTML5**
    -   **CSS3**
    -   **TypeScript**
+   -   **Next**
 
 </div>
       </td>
@@ -36,6 +37,7 @@
    -   **MySQL**
    -   **TypeScript**
    -   **Python**
+   -   **Nest**
 </div>
    </tr>
   </tbody>
